@@ -1,6 +1,6 @@
 # LDM
 
-This is a language detection model with detects the language of the text provided.
+This is a language detection model that detects the language of the text provided.
 
 
 # Built using:
