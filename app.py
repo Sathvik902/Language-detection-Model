@@ -17,3 +17,9 @@ input_test = st.text_input("Provide your Text input Here","Hello!, I am sathvik"
 button_clicked = st.button('Get Language Name')
 if button_clicked:
   st.text(Model.predict([input_test]))
+
+  
+  
+  
+  
+  
