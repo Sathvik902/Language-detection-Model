@@ -3,7 +3,7 @@
 This is a language detection model that detects the language of the text provided.
 
 
-# Built using:
+# Built using: 
 NLP, Seaborn, Sklearn, Pickle and Streamlit<br/>
 
 # Usage
